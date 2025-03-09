@@ -1,0 +1,105 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "MyLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/MyLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyLibrary.dll": {}
+        }
+      },
+      "MyServices/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/MyServices.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyServices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyLibrary/1.0.0": {
+      "type": "project",
+      "path": "../MyLibrary/MyLibrary.csproj",
+      "msbuildProject": "../MyLibrary/MyLibrary.csproj"
+    },
+    "MyServices/1.0.0": {
+      "type": "project",
+      "path": "../MyServices/MyServices.csproj",
+      "msbuildProject": "../MyServices/MyServices.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "MyLibrary >= 1.0.0",
+      "MyServices >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\dudcz\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\dudcz\\RiderProjects\\MultiProjectNuGetDemo\\MyApp\\MyApp.csproj",
+      "projectName": "MyApp",
+      "projectPath": "C:\\Users\\dudcz\\RiderProjects\\MultiProjectNuGetDemo\\MyApp\\MyApp.csproj",
+      "packagesPath": "C:\\Users\\dudcz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dudcz\\RiderProjects\\MultiProjectNuGetDemo\\MyApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\dudcz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "C:\\Users\\dudcz\\RiderProjects\\MultiProjectNuGetDemo\\MyLibrary\\MyLibrary.csproj": {
+              "projectPath": "C:\\Users\\dudcz\\RiderProjects\\MultiProjectNuGetDemo\\MyLibrary\\MyLibrary.csproj"
+            },
+            "C:\\Users\\dudcz\\RiderProjects\\MultiProjectNuGetDemo\\MyServices\\MyServices.csproj": {
+              "projectPath": "C:\\Users\\dudcz\\RiderProjects\\MultiProjectNuGetDemo\\MyServices\\MyServices.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\dudcz\RiderProjects\MultiProjectNuGetDemo\MyServices\bin\Debug\net9.0\MyServices.deps.json
+C:\Users\dudcz\RiderProjects\MultiProjectNuGetDemo\MyServices\bin\Debug\net9.0\MyServices.dll
+C:\Users\dudcz\RiderProjects\MultiProjectNuGetDemo\MyServices\bin\Debug\net9.0\MyServices.pdb
+C:\Users\dudcz\RiderProjects\MultiProjectNuGetDemo\MyServices\obj\Debug\net9.0\MyServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudcz\RiderProjects\MultiProjectNuGetDemo\MyServices\obj\Debug\net9.0\MyServices.AssemblyInfoInputs.cache
+C:\Users\dudcz\RiderProjects\MultiProjectNuGetDemo\MyServices\obj\Debug\net9.0\MyServices.AssemblyInfo.cs
+C:\Users\dudcz\RiderProjects\MultiProjectNuGetDemo\MyServices\obj\Debug\net9.0\MyServices.csproj.CoreCompileInputs.cache
+C:\Users\dudcz\RiderProjects\MultiProjectNuGetDemo\MyServices\obj\Debug\net9.0\MyServices.dll
+C:\Users\dudcz\RiderProjects\MultiProjectNuGetDemo\MyServices\obj\Debug\net9.0\refint\MyServices.dll
+C:\Users\dudcz\RiderProjects\MultiProjectNuGetDemo\MyServices\obj\Debug\net9.0\MyServices.pdb
+C:\Users\dudcz\RiderProjects\MultiProjectNuGetDemo\MyServices\obj\Debug\net9.0\ref\MyServices.dll
