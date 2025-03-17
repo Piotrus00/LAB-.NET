@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dudcz\\RiderProjects\\Lab2\\Program\\Program.csproj",
-      "projectName": "Program",
-      "projectPath": "C:\\Users\\dudcz\\RiderProjects\\Lab2\\Program\\Program.csproj",
+      "projectUniqueName": "C:\\Users\\dudcz\\RiderProjects\\Lab2\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectName": "ClassLibrary1",
+      "projectPath": "C:\\Users\\dudcz\\RiderProjects\\Lab2\\ClassLibrary1\\ClassLibrary1.csproj",
       "packagesPath": "C:\\Users\\dudcz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dudcz\\RiderProjects\\Lab2\\Program\\obj\\",
+      "outputPath": "C:\\Users\\dudcz\\RiderProjects\\Lab2\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dudcz\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1ATXe/rrPGDKbjiq8lWiCXp5eE3h9RAsi7y/DbRZCIhBLpA2gg3zYpLL72KpoIVBBGcLvRq1xlQyWn35WzR1pQ==",
+  "dgSpecHash": "Gf8CDlO2QqHxoa1wjv+cJoTH42m6MlBsLm4KSnCCxftzkhPnuEeZ2n2pkN8PJvD/bn7waaATXC/SKh2NHWgoOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dudcz\\RiderProjects\\Lab2\\Program\\Program.csproj",
+  "projectFilePath": "C:\\Users\\dudcz\\RiderProjects\\Lab2\\ClassLibrary1\\ClassLibrary1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
