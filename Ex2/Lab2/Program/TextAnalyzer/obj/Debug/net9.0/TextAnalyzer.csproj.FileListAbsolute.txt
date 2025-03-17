@@ -1,0 +1,15 @@
+C:\Users\dudcz\RiderProjects\Lab2\TextAnalyzer\bin\Debug\net9.0\TextAnalyzer.deps.json
+C:\Users\dudcz\RiderProjects\Lab2\TextAnalyzer\bin\Debug\net9.0\TextAnalyzer.dll
+C:\Users\dudcz\RiderProjects\Lab2\TextAnalyzer\bin\Debug\net9.0\TextAnalyzer.pdb
+C:\Users\dudcz\RiderProjects\Lab2\TextAnalyzer\bin\Debug\net9.0\TextStatistics.dll
+C:\Users\dudcz\RiderProjects\Lab2\TextAnalyzer\bin\Debug\net9.0\TextStatistics.pdb
+C:\Users\dudcz\RiderProjects\Lab2\TextAnalyzer\obj\Debug\net9.0\TextAnalyzer.csproj.AssemblyReference.cache
+C:\Users\dudcz\RiderProjects\Lab2\TextAnalyzer\obj\Debug\net9.0\TextAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudcz\RiderProjects\Lab2\TextAnalyzer\obj\Debug\net9.0\TextAnalyzer.AssemblyInfoInputs.cache
+C:\Users\dudcz\RiderProjects\Lab2\TextAnalyzer\obj\Debug\net9.0\TextAnalyzer.AssemblyInfo.cs
+C:\Users\dudcz\RiderProjects\Lab2\TextAnalyzer\obj\Debug\net9.0\TextAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\dudcz\RiderProjects\Lab2\TextAnalyzer\obj\Debug\net9.0\TextAnal.EE558467.Up2Date
+C:\Users\dudcz\RiderProjects\Lab2\TextAnalyzer\obj\Debug\net9.0\TextAnalyzer.dll
+C:\Users\dudcz\RiderProjects\Lab2\TextAnalyzer\obj\Debug\net9.0\refint\TextAnalyzer.dll
+C:\Users\dudcz\RiderProjects\Lab2\TextAnalyzer\obj\Debug\net9.0\TextAnalyzer.pdb
+C:\Users\dudcz\RiderProjects\Lab2\TextAnalyzer\obj\Debug\net9.0\ref\TextAnalyzer.dll

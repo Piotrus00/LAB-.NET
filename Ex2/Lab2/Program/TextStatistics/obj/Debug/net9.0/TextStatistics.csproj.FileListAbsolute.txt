@@ -1,0 +1,11 @@
+C:\Users\dudcz\RiderProjects\Lab2\TextStatistics\bin\Debug\net9.0\TextStatistics.deps.json
+C:\Users\dudcz\RiderProjects\Lab2\TextStatistics\bin\Debug\net9.0\TextStatistics.dll
+C:\Users\dudcz\RiderProjects\Lab2\TextStatistics\bin\Debug\net9.0\TextStatistics.pdb
+C:\Users\dudcz\RiderProjects\Lab2\TextStatistics\obj\Debug\net9.0\TextStatistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudcz\RiderProjects\Lab2\TextStatistics\obj\Debug\net9.0\TextStatistics.AssemblyInfoInputs.cache
+C:\Users\dudcz\RiderProjects\Lab2\TextStatistics\obj\Debug\net9.0\TextStatistics.AssemblyInfo.cs
+C:\Users\dudcz\RiderProjects\Lab2\TextStatistics\obj\Debug\net9.0\TextStatistics.csproj.CoreCompileInputs.cache
+C:\Users\dudcz\RiderProjects\Lab2\TextStatistics\obj\Debug\net9.0\TextStatistics.dll
+C:\Users\dudcz\RiderProjects\Lab2\TextStatistics\obj\Debug\net9.0\refint\TextStatistics.dll
+C:\Users\dudcz\RiderProjects\Lab2\TextStatistics\obj\Debug\net9.0\TextStatistics.pdb
+C:\Users\dudcz\RiderProjects\Lab2\TextStatistics\obj\Debug\net9.0\ref\TextStatistics.dll
