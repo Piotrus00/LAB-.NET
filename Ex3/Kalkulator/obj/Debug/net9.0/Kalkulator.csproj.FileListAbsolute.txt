@@ -1,0 +1,14 @@
+C:\Users\dudcz\RiderProjects\Lab3\Kalkulator\bin\Debug\net9.0\Kalkulator.deps.json
+C:\Users\dudcz\RiderProjects\Lab3\Kalkulator\bin\Debug\net9.0\Kalkulator.dll
+C:\Users\dudcz\RiderProjects\Lab3\Kalkulator\bin\Debug\net9.0\Kalkulator.pdb
+C:\Users\dudcz\RiderProjects\Lab3\Kalkulator\obj\Debug\net9.0\Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudcz\RiderProjects\Lab3\Kalkulator\obj\Debug\net9.0\Kalkulator.AssemblyInfoInputs.cache
+C:\Users\dudcz\RiderProjects\Lab3\Kalkulator\obj\Debug\net9.0\Kalkulator.AssemblyInfo.cs
+C:\Users\dudcz\RiderProjects\Lab3\Kalkulator\obj\Debug\net9.0\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\dudcz\RiderProjects\Lab3\Kalkulator\obj\Debug\net9.0\Kalkulator.dll
+C:\Users\dudcz\RiderProjects\Lab3\Kalkulator\obj\Debug\net9.0\refint\Kalkulator.dll
+C:\Users\dudcz\RiderProjects\Lab3\Kalkulator\obj\Debug\net9.0\Kalkulator.pdb
+C:\Users\dudcz\RiderProjects\Lab3\Kalkulator\obj\Debug\net9.0\ref\Kalkulator.dll
+C:\Users\dudcz\RiderProjects\Lab3\Kalkulator\bin\Debug\net9.0\Kalkulator.exe
+C:\Users\dudcz\RiderProjects\Lab3\Kalkulator\bin\Debug\net9.0\Kalkulator.runtimeconfig.json
+C:\Users\dudcz\RiderProjects\Lab3\Kalkulator\obj\Debug\net9.0\Kalkulator.genruntimeconfig.cache
